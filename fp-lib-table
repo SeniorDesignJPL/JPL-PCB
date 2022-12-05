@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name "JPL Robotics")(type KiCad)(uri "${KIPRJMOD}/JPL Robotics.pretty")(options "")(descr ""))
+  (lib (name "JPL Robotics")(type "KiCad")(uri "${KIPRJMOD}/JPL Robotics.pretty")(options "")(descr ""))
+  (lib (name "SparkFun-Connectors")(type "KiCad")(uri "${KIPRJMOD}/SparkFun-Kicad-Libraries-master/SparkFun-Connectors.pretty")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
 )
